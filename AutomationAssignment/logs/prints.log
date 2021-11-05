@@ -1,0 +1,4 @@
+12:49:37.429 [AsyncHttpClient-1-6] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-6
+12:49:37.428 [AsyncHttpClient-1-5] DEBUG io.netty.buffer.PoolThreadCache - Freed 20 thread-local buffer(s) from thread: AsyncHttpClient-1-5
+12:49:37.428 [AsyncHttpClient-1-16] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-16
+12:49:37.428 [AsyncHttpClient-1-13] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-13

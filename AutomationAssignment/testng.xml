@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="TextValidation.Listeners" />
+	</listeners>
+	<test thread-count="10" name="Test">
+		<classes>
+			<class name="SearchTest.TakeValueFromExcel" />
+			<class name="TextValidation.TextValidate" />
+			<class name="SearchTest.searching" />
+			<class name="presettest.settingtest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> 

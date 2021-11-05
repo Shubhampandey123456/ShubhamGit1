@@ -1,0 +1,7 @@
+17:59:28.217 [main] INFO  PreSetups.PreSettings - text displayed
+17:59:39.658 [main] INFO  PreSetups.PreSettings - Product is searched
+17:59:51.291 [main] INFO  PreSetups.PreSettings - Product is searched
+17:59:56.762 [main] INFO  PreSetups.PreSettings - Driber is intialized
+18:00:17.360 [main] INFO  PreSetups.PreSettings - Driber is intialized
+18:00:37.564 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-4
+18:00:37.565 [AsyncHttpClient-1-7] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-7
